@@ -38,21 +38,21 @@ color:  #ff4d4d;
 }
 
 /*This is the form style*/
-form {
+.form {
 	margin: 11px auto;
 	max-width: 310px;
 	background: #d6d6f5;
 	border-radius: 20px;
 	padding: 10px 20px;
 }
-form {
+.form {
 max-width: 480px;
 }
 
 @media screen and (min-width: 480px) {
 
 /*Designing my Header*/
-h1 {
+.h1 {
 	text-align: center;
 	color:  #ff4dff;
 	margin: 0 0 20px 0;
@@ -66,7 +66,7 @@ input[type="dob"],
 textarea,
 select {
 font-size: 12px;
-height: auto;
+height: 100px;
 outline: 0;
 padding: 5px;
 text-align: center;
@@ -89,5 +89,7 @@ font-size: 14px;
 text-align: center;
 border-radius: 10px;
 margin-bottom: 18px;
+
+
 }
 }}
