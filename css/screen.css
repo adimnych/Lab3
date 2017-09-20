@@ -24,8 +24,8 @@ h1 {
 	margin: 0 10 20px 0;
 
 }
-
 <!Creating my inputs>
-input(type="email"),
-input(type="number")
-input(type="dob")
+input[type="email"],
+input[type="number"],
+input[type="dob"],
+
