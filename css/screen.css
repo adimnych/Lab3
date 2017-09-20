@@ -26,4 +26,6 @@ h1 {
 }
 
 <!Creating my inputs>
-input
+input(type="email"),
+input(type="number")
+input(type="dob")
