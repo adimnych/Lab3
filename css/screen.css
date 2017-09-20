@@ -42,6 +42,11 @@ form {
 	max-width: 310px;
 	background: #ffe6e6
 }
+form {
+max-width: 480px;
+}
+
+@media screen and (min-width: 480px) {
 
 <!Designing my Header>
 h1 {
