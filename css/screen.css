@@ -1,1 +1,29 @@
-<!Here is where all my editing with the size of the website be on>
+{
+-moz-box-sizing: border-box;
+box-sizing:border-box;
+}
+
+<!This is the body style>
+body {
+	font-family: "Times New Roman", Georgia, Serif;
+	color:  #ff4d4d;
+
+}
+
+<!This is the form style>
+form {
+	margin: 11px auto;
+	max-width: 310px;
+	background: #ffe6e6
+}
+
+<!Designing my Header>
+h1 {
+	text-align: center;
+	color:  #ff4dff
+	margin: 0 10 20px 0;
+
+}
+
+<!Creating my inputs>
+input
